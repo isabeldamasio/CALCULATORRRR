@@ -1,0 +1,21 @@
+section{
+    text-align: center;
+    margin: 10% 40% 25% 40%;
+    padding: 5% 3% 5% 3%;
+    background-color: #04376b;
+    border-radius: 5%;
+}
+
+h1{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    color: aliceblue;
+}
+
+p{
+    font-family:Verdana, Geneva, Tahoma, sans-serif ;
+    color: aliceblue;
+}
+
+#numeros{
+    color: aliceblue;
+}
